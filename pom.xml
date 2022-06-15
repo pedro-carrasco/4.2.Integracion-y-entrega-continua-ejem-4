@@ -54,9 +54,7 @@
 		<repository>
 		<id>github</id>
 		<name>GitHub Packages</name>
-		<url>https://maven.pkg.github.com/mastercloudapps/4.2.integracion-y-entrega-continua-ejem-4</url>
+		<url>https://maven.pkg.github.com/pedro-carrasco/4.2.integracion-y-entrega-continua-ejem-4</url>
 		</repository>
 	</distributionManagement>
-
-
 </project>
